@@ -1,8 +1,6 @@
 ---
 title: "Rapid Conversion of Draft R Scripts to Formal
   Rmd Reports"
-subtitle: "A practical workflow for turning working R
-  files into presentation-quality documents"
 author: "Ronald 'Ryy' G. Thomas"
 date: today
 categories: [r, rmarkdown, reproducibility]
@@ -25,7 +23,7 @@ format:
 
 ![A structured workflow transforms messy R scripts
 into polished analytical
-reports](media/images/hero.png){.img-fluid width=80%}
+reports](media/images/hero.png){.img-fluid width=80% fig-align="center"}
 
 # Introduction
 
