@@ -735,9 +735,9 @@ I would enjoy hearing from you if:
 This post is part of the *Quarto, R Markdown, and Publishing* series.
 Recommended reading order:
 
-1. Post 80: [Multi-Language Quarto Documents on macOS](../80-multilanguagequartodemo/)
+1. Post 80: [Multi-Language Quarto Documents on macOS](../80-pub-multi-language-quarto/)
 2. **Post 81: Rapid Conversion of Draft R Scripts to Formal Rmd** (this post)
-3. Post 82: [Controlling Table Placement in R Markdown](../82-tableplacementrmarkdown/)
-4. Post 83: [Building a Statistical Computing Textbook](../83-textbookdevelopment/)
-5. Post 84: [Setting up OBS for Live R Coding Screencasts](../84-setupobs/)
+3. Post 82: [Controlling Table Placement in R Markdown](../82-pub-table-placement-rmarkdown/)
+4. Post 83: [Building a Statistical Computing Textbook](../83-pub-statistical-computing-textbook/)
+5. Post 84: [Setting up OBS for Live R Coding Screencasts](../84-pub-obs-r-screencasts/)
 
