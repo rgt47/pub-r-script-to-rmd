@@ -10,7 +10,7 @@ description: "I did not really know how to quickly
   workflows that changed how I share analytical results."
 image: "media/images/hero.png"
 document-type: "blog"
-draft: false
+draft: true
 execute:
   echo: true
   warning: false
@@ -516,7 +516,7 @@ packages need to be uninstalled; `knitr` and
 installation.
 
 ![Refining the workflow from draft to polished
-report](media/images/ambiance3.jpg){.img-fluid}
+report](media/images/ambiance3.png){.img-fluid}
 
 # What Did We Learn?
 
