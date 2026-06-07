@@ -10,7 +10,7 @@ description: "I did not really know how to quickly
   workflows that changed how I share analytical results."
 image: "media/images/hero.png"
 document-type: "blog"
-draft: true
+draft: false
 execute:
   echo: true
   warning: false
