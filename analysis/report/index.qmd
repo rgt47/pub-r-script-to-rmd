@@ -1,7 +1,7 @@
 ---
 title: "Rapid Conversion of Draft R Scripts to Formal Rmd Reports"
 author: "Ronald G. Thomas"
-date: today
+date: "2026-05-01"
 categories: [r, rmarkdown, reproducibility]
 description: "I did not really know how to quickly convert a working R script into a presentable report until I discovered knitr::spin() and a few supporting workflows that changed how I share analytical results."
 image: "media/images/hero.png"
