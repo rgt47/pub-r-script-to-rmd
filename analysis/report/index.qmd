@@ -46,7 +46,7 @@ someone can read."
 
 More formally, this post documents the script-to-document
 promotion path in the Document layer of the Workflow Construct
-described in [post 52](/posts/52-workflow-construct/). The
+described in [A Workflow Construct for the Modern Data Scientist](../wf-construct-overview-anchor/). The
 Document layer holds the artefact a reader sees (a rendered
 HTML or PDF report); the script-to-document promotion is the
 operation that lifts a working R script onto that layer
