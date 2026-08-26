@@ -89,7 +89,7 @@ the specific concern the post addresses.
 I am documenting my learning process here. Errors and
 better approaches are welcome; see the contact section.
 
-![Settling in for a focused coding session.](media/images/ambiance1.png){.img-fluid height=3.5in}
+![A wrinkled hand-annotated draft half-tucked under a clean, freshly bound report: a rough draft becoming a formal document.](media/images/ambiance1.jpg){.img-fluid height=3.5in}
 
 # Prerequisites and Setup
 
@@ -173,8 +173,9 @@ saved figure, and some written context into a separate
 document. The three approaches described below solve
 this problem at different levels of effort and control.
 
-![Transitioning from raw scripts to structured
-reports](media/images/ambiance2.png){.img-fluid height=3.5in}
+![A carpenter's plane shaving a rough wooden board
+smooth: smoothing a rough draft into a polished
+report](media/images/ambiance2.jpg){.img-fluid height=3.5in}
 
 # Approach 1: `knitr::spin()` (The Fastest Path)
 

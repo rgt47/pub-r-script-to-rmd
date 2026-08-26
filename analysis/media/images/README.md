@@ -1,5 +1,21 @@
 # Image attributions
 
+## Status (2026-08-25)
+
+`ambiance1.jpg` and `ambiance2.jpg` are genuine Gemini generations as
+of 2026-08-25 (generated via the `gemini-image-generator` tool),
+replacing the R logo (wrong software-logo asset) and an unrelated
+Reddit screenshot that were previously in these slots.
+
+- `ambiance1.jpg`: a wrinkled hand-annotated draft half-tucked under a
+  clean, freshly bound report. Metaphor: a rough draft becoming a
+  formal document.
+- `ambiance2.jpg`: a carpenter's plane shaving a rough wooden board
+  smooth. Metaphor: smoothing a rough draft into a polished report.
+
+Both processed via `magick -resize 1600x -strip -quality 85` to
+1600x873.
+
 ## Placeholder coffee images (temporary ambiance slots)
 
 These images are shared placeholders used across all posts until replaced
