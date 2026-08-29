@@ -47,8 +47,8 @@ someone can read."
 More formally, this post documents the script-to-document
 promotion path in the Document layer of the Workflow Construct
 described in [A Workflow Construct for the Modern Data Scientist](../wf-construct-overview-anchor/). The
-Document layer holds the artifact a reader sees (a rendered
-HTML or PDF report); the script-to-document promotion is the
+Document layer holds the artifact a reader sees, a rendered
+HTML or PDF report. The script-to-document promotion is the
 operation that lifts a working R script onto that layer
 without rewriting the analysis. This is the most frequent
 project-tier transition for an applied biostatistician and is
