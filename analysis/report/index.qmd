@@ -3,7 +3,7 @@ title: "Rapid Conversion of Draft R Scripts to Formal Rmd Reports"
 author: "Ronald G. Thomas"
 date: "2026-05-01"
 categories: [r, rmarkdown, reproducibility]
-description: "I did not really know how to quickly convert a working R script into a presentable report until I discovered knitr::spin() and a few supporting workflows that changed how I share analytical results."
+description: "Converting a working R script into a presentable report quickly is a job for knitr::spin() and a few supporting workflows that changed how I share analytical results."
 image: "media/images/hero.png"
 document-type: "blog"
 draft: false
@@ -21,10 +21,10 @@ reports](media/images/hero.png){.img-fluid width=80% fig-align="center"}
 
 # Introduction
 
-I did not really know how to quickly convert a working
-R script into a presentable report until I ran into a
-situation where a collaborator needed results the same
-afternoon. The analysis was complete, the code was
+Converting a working R script into a presentable
+report became urgent when a collaborator needed
+results the same afternoon. The analysis was
+complete, the code was
 tested, but the output was a tangled mix of console
 printouts and saved PNG files scattered across a
 directory. Assembling those fragments into a coherent
